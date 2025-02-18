@@ -21,8 +21,8 @@ A Discord bot that automatically fetches and posts memes from specified subreddi
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Only1allan/meme-discord-bot/
+   cd meme-discord-bot
    ```
 
 2. **Install dependencies**
